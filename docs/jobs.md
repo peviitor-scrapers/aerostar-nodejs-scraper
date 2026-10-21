@@ -10,11 +10,11 @@
 | Location | JUD. BACĂU, MUN. BACĂU, STR. CONDORILOR, NR.9 |
 | Website | [https://www.aerostar.com](https://www.aerostar.com) |
 | Careers | [https://cariere.aerostar.ro/jobs](https://cariere.aerostar.ro/jobs) |
-| Last Scraped | 2026-10-20 |
+| Last Scraped | 2026-10-21 |
 
-## Current Job Listings (35)
+## Current Job Listings (36)
 
-_Generated: 2026-10-20T11:03:27.614Z_
+_Generated: 2026-10-21T11:20:23.093Z_
 
 ### MECANIC AVIAȚIE
 
@@ -211,6 +211,12 @@ _Generated: 2026-10-20T11:03:27.614Z_
 ### OPERATOR LA MASINI-UNELTE CU COMANDA NUMERICA
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166661](https://mediere.anofm.ro/app/module/mediere/job/3166661)
+- **Location:** România
+- **Status:** scraped
+
+### INGINER PRELUCRARI METALURGICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166510](https://mediere.anofm.ro/app/module/mediere/job/3166510)
 - **Location:** România
 - **Status:** scraped
 
