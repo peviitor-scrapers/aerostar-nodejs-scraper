@@ -10,11 +10,11 @@
 | Location | JUD. BACĂU, MUN. BACĂU, STR. CONDORILOR, NR.9 |
 | Website | [https://www.aerostar.com](https://www.aerostar.com) |
 | Careers | [https://cariere.aerostar.ro/jobs](https://cariere.aerostar.ro/jobs) |
-| Last Scraped | 2026-10-21 |
+| Last Scraped | 2026-10-22 |
 
-## Current Job Listings (36)
+## Current Job Listings (35)
 
-_Generated: 2026-10-21T11:20:23.093Z_
+_Generated: 2026-10-22T11:19:26.565Z_
 
 ### MECANIC AVIAȚIE
 
@@ -199,12 +199,6 @@ _Generated: 2026-10-21T11:20:23.093Z_
 ### STRUNGAR UNIVERSAL
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166681](https://mediere.anofm.ro/app/module/mediere/job/3166681)
-- **Location:** România
-- **Status:** scraped
-
-### VOPSITOR INDUSTRIAL
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166674](https://mediere.anofm.ro/app/module/mediere/job/3166674)
 - **Location:** România
 - **Status:** scraped
 
