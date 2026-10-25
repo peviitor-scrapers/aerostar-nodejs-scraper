@@ -10,11 +10,11 @@
 | Location | JUD. BACĂU, MUN. BACĂU, STR. CONDORILOR, NR.9 |
 | Website | [https://www.aerostar.com](https://www.aerostar.com) |
 | Careers | [https://cariere.aerostar.ro/jobs](https://cariere.aerostar.ro/jobs) |
-| Last Scraped | 2026-10-24 |
+| Last Scraped | 2026-10-25 |
 
-## Current Job Listings (36)
+## Current Job Listings (35)
 
-_Generated: 2026-10-24T10:27:48.816Z_
+_Generated: 2026-10-25T10:54:35.697Z_
 
 ### MECANIC AVIAȚIE
 
@@ -235,12 +235,6 @@ _Generated: 2026-10-24T10:27:48.816Z_
 ### INGINER AVIATIE
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166481](https://mediere.anofm.ro/app/module/mediere/job/3166481)
-- **Location:** România
-- **Status:** scraped
-
-### MECANIC AVIATIE
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166478](https://mediere.anofm.ro/app/module/mediere/job/3166478)
 - **Location:** România
 - **Status:** scraped
 
