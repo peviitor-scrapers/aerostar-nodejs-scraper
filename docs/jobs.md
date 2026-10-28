@@ -10,11 +10,11 @@
 | Location | JUD. BACĂU, MUN. BACĂU, STR. CONDORILOR, NR.9 |
 | Website | [https://www.aerostar.com](https://www.aerostar.com) |
 | Careers | [https://cariere.aerostar.ro/jobs](https://cariere.aerostar.ro/jobs) |
-| Last Scraped | 2026-10-27 |
+| Last Scraped | 2026-10-28 |
 
-## Current Job Listings (35)
+## Current Job Listings (34)
 
-_Generated: 2026-10-27T11:44:34.930Z_
+_Generated: 2026-10-28T12:17:04.100Z_
 
 ### MECANIC AVIAȚIE
 
@@ -202,9 +202,9 @@ _Generated: 2026-10-27T11:44:34.930Z_
 - **Location:** România
 - **Status:** scraped
 
-### OPERATOR LA MASINI-UNELTE CU COMANDA NUMERICA
+### VOPSITOR INDUSTRIAL
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166661](https://mediere.anofm.ro/app/module/mediere/job/3166661)
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166674](https://mediere.anofm.ro/app/module/mediere/job/3166674)
 - **Location:** România
 - **Status:** scraped
 
@@ -229,12 +229,6 @@ _Generated: 2026-10-27T11:44:34.930Z_
 ### INGINER AVIATIE
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166481](https://mediere.anofm.ro/app/module/mediere/job/3166481)
-- **Location:** România
-- **Status:** scraped
-
-### MECANIC AVIATIE
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166478](https://mediere.anofm.ro/app/module/mediere/job/3166478)
 - **Location:** România
 - **Status:** scraped
 
