@@ -10,11 +10,11 @@
 | Location | JUD. BACĂU, MUN. BACĂU, STR. CONDORILOR, NR.9 |
 | Website | [https://www.aerostar.com](https://www.aerostar.com) |
 | Careers | [https://cariere.aerostar.ro/jobs](https://cariere.aerostar.ro/jobs) |
-| Last Scraped | 2026-10-29 |
+| Last Scraped | 2026-10-30 |
 
-## Current Job Listings (34)
+## Current Job Listings (36)
 
-_Generated: 2026-10-29T12:27:14.352Z_
+_Generated: 2026-10-30T12:19:02.633Z_
 
 ### MECANIC AVIAȚIE
 
@@ -214,6 +214,12 @@ _Generated: 2026-10-29T12:27:14.352Z_
 - **Location:** România
 - **Status:** scraped
 
+### INGINER PRELUCRARI METALURGICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166510](https://mediere.anofm.ro/app/module/mediere/job/3166510)
+- **Location:** România
+- **Status:** scraped
+
 ### inginer sudor
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166495](https://mediere.anofm.ro/app/module/mediere/job/3166495)
@@ -241,5 +247,11 @@ _Generated: 2026-10-29T12:27:14.352Z_
 ### ELECTROMECANIC
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166470](https://mediere.anofm.ro/app/module/mediere/job/3166470)
+- **Location:** România
+- **Status:** scraped
+
+### TINICHIGIU STRUCTURIST DE AVIATIE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166428](https://mediere.anofm.ro/app/module/mediere/job/3166428)
 - **Location:** România
 - **Status:** scraped
