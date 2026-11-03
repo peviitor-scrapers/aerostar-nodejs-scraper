@@ -10,11 +10,11 @@
 | Location | JUD. BACĂU, MUN. BACĂU, STR. CONDORILOR, NR.9 |
 | Website | [https://www.aerostar.com](https://www.aerostar.com) |
 | Careers | [https://cariere.aerostar.ro/jobs](https://cariere.aerostar.ro/jobs) |
-| Last Scraped | 2026-11-02 |
+| Last Scraped | 2026-11-03 |
 
-## Current Job Listings (36)
+## Current Job Listings (33)
 
-_Generated: 2026-11-02T14:58:24.168Z_
+_Generated: 2026-11-03T13:46:21.286Z_
 
 ### MECANIC AVIAȚIE
 
@@ -93,13 +93,6 @@ _Generated: 2026-11-02T14:58:24.168Z_
 - **Location:** România
 - **Status:** scraped
 
-### INSPECTOR DE CALITATE
-
-- **URL:** [https://cariere.aerostar.ro/jobs/c3d02de4-1276-43bc-9772-91b3d606add9](https://cariere.aerostar.ro/jobs/c3d02de4-1276-43bc-9772-91b3d606add9)
-- **Work Mode:** on-site
-- **Location:** România
-- **Status:** scraped
-
 ### Personal licențiat EASA Part 66 categoriile B1 și/sau B2
 
 - **URL:** [https://cariere.aerostar.ro/jobs/6daa96f7-dcae-4d37-91bf-0e713592c2c0](https://cariere.aerostar.ro/jobs/6daa96f7-dcae-4d37-91bf-0e713592c2c0)
@@ -145,20 +138,6 @@ _Generated: 2026-11-02T14:58:24.168Z_
 ### INGINER INVESTIȚII
 
 - **URL:** [https://cariere.aerostar.ro/jobs/7f09de97-01e8-481f-a8e9-1e9f7f740b5c](https://cariere.aerostar.ro/jobs/7f09de97-01e8-481f-a8e9-1e9f7f740b5c)
-- **Work Mode:** on-site
-- **Location:** România
-- **Status:** scraped
-
-### INGINER REȚEA IT
-
-- **URL:** [https://cariere.aerostar.ro/jobs/84cb5be2-0cda-4145-87c7-bc5f0b7e7274](https://cariere.aerostar.ro/jobs/84cb5be2-0cda-4145-87c7-bc5f0b7e7274)
-- **Work Mode:** on-site
-- **Location:** România
-- **Status:** scraped
-
-### INGINER SECURITATE IT
-
-- **URL:** [https://cariere.aerostar.ro/jobs/6e66f49b-e6a5-4a6f-99e1-65c56999601b](https://cariere.aerostar.ro/jobs/6e66f49b-e6a5-4a6f-99e1-65c56999601b)
 - **Work Mode:** on-site
 - **Location:** România
 - **Status:** scraped
