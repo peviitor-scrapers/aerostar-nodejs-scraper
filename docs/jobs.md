@@ -10,11 +10,11 @@
 | Location | JUD. BACĂU, MUN. BACĂU, STR. CONDORILOR, NR.9 |
 | Website | [https://www.aerostar.com](https://www.aerostar.com) |
 | Careers | [https://cariere.aerostar.ro/jobs](https://cariere.aerostar.ro/jobs) |
-| Last Scraped | 2026-11-10 |
+| Last Scraped | 2026-11-11 |
 
-## Current Job Listings (32)
+## Current Job Listings (33)
 
-_Generated: 2026-11-10T14:28:55.587Z_
+_Generated: 2026-11-11T13:42:59.617Z_
 
 ### MECANIC AVIAȚIE
 
@@ -196,6 +196,12 @@ _Generated: 2026-11-10T14:28:55.587Z_
 ### INGINER PRELUCRARI METALURGICE
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166510](https://mediere.anofm.ro/app/module/mediere/job/3166510)
+- **Location:** România
+- **Status:** scraped
+
+### inginer sudor
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3166495](https://mediere.anofm.ro/app/module/mediere/job/3166495)
 - **Location:** România
 - **Status:** scraped
 
