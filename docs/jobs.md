@@ -10,11 +10,11 @@
 | Location | JUD. BACĂU, MUN. BACĂU, STR. CONDORILOR, NR.9 |
 | Website | [https://www.aerostar.com](https://www.aerostar.com) |
 | Careers | [https://cariere.aerostar.ro/jobs](https://cariere.aerostar.ro/jobs) |
-| Last Scraped | 2026-11-15 |
+| Last Scraped | 2026-11-16 |
 
-## Current Job Listings (32)
+## Current Job Listings (31)
 
-_Generated: 2026-11-15T13:36:01.145Z_
+_Generated: 2026-11-16T15:04:10.177Z_
 
 ### MECANIC AVIAȚIE
 
@@ -145,13 +145,6 @@ _Generated: 2026-11-15T13:36:01.145Z_
 ### INSPECTOR CALITATE RECEPȚIE
 
 - **URL:** [https://cariere.aerostar.ro/jobs/b3fa8375-feb2-44aa-9f4e-e337c1eb97d6](https://cariere.aerostar.ro/jobs/b3fa8375-feb2-44aa-9f4e-e337c1eb97d6)
-- **Work Mode:** on-site
-- **Location:** România
-- **Status:** scraped
-
-### SERVANT POMPIER
-
-- **URL:** [https://cariere.aerostar.ro/jobs/e73e815c-1ec2-40ac-8992-64ce2008014a](https://cariere.aerostar.ro/jobs/e73e815c-1ec2-40ac-8992-64ce2008014a)
 - **Work Mode:** on-site
 - **Location:** România
 - **Status:** scraped
